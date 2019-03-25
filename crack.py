@@ -11,7 +11,7 @@ from chaojiying import Chaojiying
 EMAIL = 'cqc@cuiqingcai.com'
 PASSWORD = ''
 
-CHAOJIYING_USERNAME = 'Germey'
+CHAOJIYING_USERNAME = 'weirencop'
 CHAOJIYING_PASSWORD = ''
 CHAOJIYING_SOFT_ID = 893590
 CHAOJIYING_KIND = 9102
